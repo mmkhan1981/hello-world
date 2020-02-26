@@ -1,1 +1,2 @@
-testing my test file
+testing my test file....
+now sending this from new OpenShift folder
